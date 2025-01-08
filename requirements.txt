@@ -1,0 +1,8 @@
+gurobipy
+matplotlib
+numpy
+ortools
+pandas
+pyparsing
+protobuf
+pytz
